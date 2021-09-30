@@ -14,7 +14,7 @@ rofi_command="rofi -theme $dir/powermenu.rasi"
 shutdown=" 关机"
 reboot=" 重启"
 lock=" 锁屏"
-logout=" 退出登录"
+logout=" 注销"
 
 # Confirmation
 confirm_exit() {
